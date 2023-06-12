@@ -11,7 +11,7 @@ def keyoffsets_to_keyindices(key_offsets):
 
 def main():
     min_height = 0
-    max_height = 2886500
+    max_height = 2530000
 
     url_getblock = 'http://127.0.0.1:18081/json_rpc'
     url_gettransactions = 'http://127.0.0.1:18081/gettransactions'
